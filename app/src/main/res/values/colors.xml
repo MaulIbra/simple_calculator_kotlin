@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#c1c1c1</color>
+    <color name="colorSilverBias">#d9dad9</color>
+    <color name="whiteBias">#eaeaea</color>
+    <color name="blue">#74a4ca</color>
 </resources>
